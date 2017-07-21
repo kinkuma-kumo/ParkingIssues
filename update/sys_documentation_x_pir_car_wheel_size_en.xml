@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="wheel_size" label="Wheel Size" language="en" table="x_pir_car">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>wheel_size</element>
+            <help/>
+            <hint/>
+            <label>Wheel Size</label>
+            <language>en</language>
+            <name>x_pir_car</name>
+            <plural>Wheel Sizes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>daniel.brewitt</sys_created_by>
+            <sys_created_on>2017-07-21 09:00:55</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>9b40ed52db888b40cc5d5fa0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wheel Size</sys_name>
+            <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
+            <sys_update_name>sys_documentation_x_pir_car_wheel_size_en</sys_update_name>
+            <sys_updated_by>daniel.brewitt</sys_updated_by>
+            <sys_updated_on>2017-07-21 09:00:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

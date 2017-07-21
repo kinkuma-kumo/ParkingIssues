@@ -5,5 +5,6 @@
         <element display="true" label="Display" max_length="40" name="display" read_only="true" type="string"/>
         <element label="Make" max_length="40" name="make" type="string"/>
         <element label="Model" max_length="40" name="model" type="string"/>
+        <element label="Wheel Size" max_length="20" name="wheel_size" type="integer"/>
     </element>
 </database>
