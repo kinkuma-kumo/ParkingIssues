@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>display</element>
-            <list_id display_value="x_pir_car" element="NULL" name="x_pir_car" parent="NULL" relationship="NULL" sys_domain="global" view="0a230413282212003a709da012c7cb7e">223abc73673212008db1bcb532415a5a</list_id>
+            <list_id display_value="x_pir_car" element="NULL" name="x_pir_car" parent="NULL" relationship="NULL" sys_domain="global" view="7bf50503db1032009d4751b0cf96197f">223abc73673212008db1bcb532415a5a</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -43,7 +43,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-04-22 02:24:40</sys_updated_on>
             <sys_user/>
-            <view display_value="Reference List" name="sys_ref_list">0a230413282212003a709da012c7cb7e</view>
+            <view display_value="Reference List" name="sys_ref_list">7bf50503db1032009d4751b0cf96197f</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
